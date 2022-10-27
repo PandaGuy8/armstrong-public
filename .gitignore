@@ -1,0 +1,8 @@
+*.o
+*.d
+a.out
+dart
+__pycache__
+.vscode/settings.json
+armstrong
+*.so
